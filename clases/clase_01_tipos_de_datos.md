@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 # Python para Bionformática
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb)
