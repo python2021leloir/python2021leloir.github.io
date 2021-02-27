@@ -13,11 +13,10 @@ Antes de empezar, vamos a probar que no haya problemas para cargar la claes en c
 
 
 Para empezar, les recomendamos ver el siguiente video sobre como cargar las clases en Colab y poder empezar a programar.
-Para eso tienen que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb). Les adjuntamos un [video](https://zoom.us/download) con las instrucciones para hacer la prueba:
+Para eso tienen que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb). 
 
-
-
-Si hay algun problema, y con el video no alcanza, envíen un mail a ... contandonos cuál es el problema.
+Les adjuntamos un [video](https://zoom.us/download) con las instrucciones para hacer la prueba:
+Si hay algun problema, y con el video no alcanza, envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
 
 
 
