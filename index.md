@@ -2,8 +2,9 @@
 ## A2B2C - Fundación Instituto Leloir
 
 Introducción
-[Clase 1](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos)
 
+
+[Clase 1 - Tipos de Datos](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos)
 
 
 
