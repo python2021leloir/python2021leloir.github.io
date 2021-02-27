@@ -1,4 +1,4 @@
-# Bienvenidxs
+## Bienvenidxs
 
 En esta página vamos a ir actualizando los links a las clases, entre otras cosas.
 
