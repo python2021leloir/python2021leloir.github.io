@@ -8,16 +8,14 @@ Las clases van a ser por [Zoom](https://zoom.us/download), así que les pedimos 
 Los datos para entrar en las salas de Zoom se las enviaremos por mail. 
 
 
-Antes de empezar, vamos a probar que no haya problemas para cargar la claes en colab.
+### Antes de empezar
+Vamos a probar que no haya problemas para cargar la clases poder programar en Colab.
 
+Para eso tenemos que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) y seguir las instruccciones disponibles en el siguiente [video](www.google.com.ar)
 
-Para empezar, les recomendamos ver el siguiente video sobre como cargar las clases en Colab y poder empezar a programar.
-Para eso tienen que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb). 
 
 Les adjuntamos un [video](https://zoom.us/download) con las instrucciones para hacer la prueba:
 Si hay algun problema, y con el video no alcanza, envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
-
-
 
 
 ### Clases
