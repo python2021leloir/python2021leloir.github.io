@@ -1,12 +1,27 @@
-# Escuela de Bioinformática 2021
-## A2B2C - Fundación Instituto Leloir
+# Bienvenidxs
+
+En esta página vamos a ir actualizando los links a las clases, entre otras cosas.
+
+Las clases las pueden abrir directamente en Colab, o ver en github.
+
+Las clases van a ser por [Zoom](https://zoom.us/download), así que les pedimos si pueden ir instalando la aplicación les que no la tengan.
+
+... ( Revisar el tema de los links de zoom) ... 
+
+
+Para empezar, les recomendamos ver el siguiente video sobre como cargar las clases en Colab y poder empezar a programar.
+
+--- Video --- 
+
+
+Las clases las vamos a ir subiendo estos días.
 
 Introducción
-
 
 [Clase 1 - Tipos de Datos](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos)
 
 
+### Datos del curso
 
 ### Introducción a Python para Bioinformática
 1, 2, 3, 4 y 5 de Marzo de 2021.
@@ -15,22 +30,22 @@ Resolución de ejercicios de 13 a 16 hs (por cuenta del alumne, sin conexión).
 Resolución de dudas y ejercicios de 16 a 17 hs.
 Docentes: Javier Iserte, Fernando Orti, Elizabeth Martinez Perez (Fundación Instituto Leloir)
 
-#### OBJETIVOS:
+##### OBJETIVOS:
 El curso busca ofrecer un primer acercamiento a la programación, el manejo y la visualización de datos, utilizando el lenguaje Python.  
  
-#### AUDIENCIA:
+##### AUDIENCIA:
 El curso está pensado para investigadorxs,  estudiantes de grado y posgrado que tengan interés en hacer sus primeros pasos en la programación en general y/o que busquen incorporar la programación en sus labores profesionales.
 
-#### DIAS Y HORARIOS:
+##### DIAS Y HORARIOS:
 1, 2, 3, 4 y 5 de Marzo de 2021.
 Clases teórico practicas de 10 a 13 Hs. (GMT -3)
 Resolución de ejercicios de 13 a 16 hs (por cuenta del alumne, sin conexión).
 Resolución de dudas y ejercicios de 16 a 17 hs.
 
-#### DOCENTES:
+##### DOCENTES:
 Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 
-#### CONTENIDOS GENERALES
+##### CONTENIDOS GENERALES
 
 * Generalidades del lenguaje Python.
 * Herramientas para empezar a programar.
@@ -53,11 +68,11 @@ Dr. Javier Iserte, Lic. Fernando Orti, Lic. Elizabeth Martinez Perez
 * Gráficos exploratorios.
 * Bonus: Presentación de algunas herramientas bioinformáticas disponibles en Python.
 
-#### CERTIFICADOS:
+##### CERTIFICADOS:
 Se tomará un examen no obligatorio al finalizar el curso y se emitirá certificado de aprobación con nota.
 Se emitirán certificados de participación para aquellas personas que no rindan el examen
 
-#### REQUISITOS MÍNIMOS:
+##### REQUISITOS MÍNIMOS:
 Computadora para uso personal
 Conexión a Internet
 No se requiere conocimientos previos de programación.
