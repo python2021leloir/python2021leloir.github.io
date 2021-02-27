@@ -14,15 +14,16 @@ Vamos a probar que no haya problemas para cargar la clases poder programar en Co
 Para eso tenemos que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) y seguir las instruccciones disponibles en el siguiente [video](www.google.com.ar)
 
 
-Si hay algun problema, y con el video no alcanza, envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
+Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
 
 
 ### Clases
 Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 Introducción
-
-1. Tipos de datos [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb)
+| Clases | Links |
+| -------- | -------- | 
+| 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
 
 
 
