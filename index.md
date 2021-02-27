@@ -2,7 +2,7 @@
 
 En esta página vamos a ir actualizando los links a las clases, entre otras cosas.
 
-Las clases las pueden abrir directamente en Colab, o ver en github.
+
 
 Las clases van a ser por [Zoom](https://zoom.us/download), así que les pedimos si pueden ir instalando la aplicación les que no la tengan.
 
@@ -13,12 +13,11 @@ Para empezar, les recomendamos ver el siguiente video sobre como cargar las clas
 
 --- Video --- 
 
-
-Las clases las vamos a ir subiendo estos días.
+### Clases
+Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 Introducción
-
-[Clase 1 - Tipos de Datos](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos)
+[Clase 1 - Tipos de Datos](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb)
 
 
 ### Datos del curso
