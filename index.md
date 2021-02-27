@@ -14,7 +14,6 @@ Vamos a probar que no haya problemas para cargar la clases poder programar en Co
 Para eso tenemos que hacer click [aquí](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) y seguir las instruccciones disponibles en el siguiente [video](www.google.com.ar)
 
 
-Les adjuntamos un [video](https://zoom.us/download) con las instrucciones para hacer la prueba:
 Si hay algun problema, y con el video no alcanza, envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
 
 
