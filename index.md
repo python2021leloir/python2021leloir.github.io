@@ -11,7 +11,7 @@ Los datos para entrar en las salas de Zoom se las enviaremos por mail.
 ### Antes de empezar
 Vamos a probar que no haya problemas para cargar la clases poder programar en Colab.
 
-Para eso tenemos que hacer click al lado de Clase de Prueba Clase de Prueba, donde dice "Cargar en Colab" y seguir las instruccciones disponibles en el siguiente [video](www.google.com.ar)
+Para eso tenemos que hacer click al lado de Clase de Prueba Clase de prueba Colab, donde dice "Cargar en Colab" y seguir las instruccciones disponibles en el siguiente [video](www.google.com.ar)
 
 
 Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
@@ -21,7 +21,7 @@ Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com cont
 Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 
-| 0. Clase de Prueba | [Ver](https://python2021leloir.github.io/clases/Clase_Prueba.ipynb) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb)
+| 0. Clase de prueba Colab | [Ver](https://python2021leloir.github.io/clases/Clase_Prueba.ipynb) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb)
 | 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
 
 
