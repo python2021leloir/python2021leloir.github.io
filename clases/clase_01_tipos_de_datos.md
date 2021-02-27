@@ -1,6 +1,3 @@
----
-title: Document Center
----
 
 # Python para Bionformática
 
