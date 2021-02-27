@@ -22,6 +22,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 Introducción
 | Clases | Links |
+
 | -------- | -------- | 
 
 | 0. Clase de Prueba | [Ver](https://python2021leloir.github.io/clases/Clase_Prueba.ipynb) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb)
