@@ -3,9 +3,9 @@
 En esta página vamos a ir actualizando los links a las clases, entre otras cosas.
 
 
-
+### Plataforma para las clases virtuales
 Las clases van a ser por [Zoom](https://zoom.us/download), así que les pedimos si pueden ir instalando la aplicación les que no la tengan.
-Los datos para entrar en las salas de Zoom se las enviaremos por mail. 
+Los datos para entrar en las salas de Zoom se las enviaremos por mail.
 
 
 ### Antes de empezar
