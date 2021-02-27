@@ -20,8 +20,6 @@ Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com cont
 ### Clases
 Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
-Introducción
-| Clases | Links |
 
 | 0. Clase de Prueba | [Ver](https://python2021leloir.github.io/clases/Clase_Prueba.ipynb) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb)
 | 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
