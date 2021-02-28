@@ -24,9 +24,11 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 0. Clase de prueba Colab | [Ver](https://python2021leloir.github.io/clases/prueba_colab) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) |
 | 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
 | 2. Coding | [Ver](https://python2021leloir.github.io/clases/clase_02_coding) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_02_coding.ipynb) |
-
----
-
+| 3. Listas | [Ver](https://python2021leloir.github.io/clases/clase_03_listas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_03_listas.ipynb) |
+| 4. Funciones | [Ver](https://python2021leloir.github.io/clases/clase_04_funciones) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_04_funciones.ipynb) |
+| 5. Diccionarios | [Ver](https://python2021leloir.github.io/clases/clase_05_diccionarios) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_05_diccionarios.ipynb) |
+| 6. Control | [Ver](https://python2021leloir.github.io/clases/clase_06_control_de_flujo) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_06_control_de_flujo.ipynb) |
+| 7. Objetos | [Ver](https://python2021leloir.github.io/clases/clase_07_clases_y_objetos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_07_clases_y_objetos.ipynb) |
 
 ### Datos del curso
 
