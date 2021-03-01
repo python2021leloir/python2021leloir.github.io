@@ -32,6 +32,10 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 6. Control | [Ver](https://python2021leloir.github.io/clases/clase_06_control_de_flujo) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_06_control_de_flujo.ipynb) |
 | 7. Objetos | [Ver](https://python2021leloir.github.io/clases/clase_07_clases_y_objetos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_07_clases_y_objetos.ipynb) |
 
+### Ejercicios
+
+[Ejercicios de Python base - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_python_base.ipynb)
+
 ### Datos del curso
 
 ### Introducción a Python para Bioinformática
