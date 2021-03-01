@@ -31,10 +31,16 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 5. Diccionarios | [Ver](https://python2021leloir.github.io/clases/clase_05_diccionarios) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_05_diccionarios.ipynb) |
 | 6. Control | [Ver](https://python2021leloir.github.io/clases/clase_06_control_de_flujo) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_06_control_de_flujo.ipynb) |
 | 7. Objetos | [Ver](https://python2021leloir.github.io/clases/clase_07_clases_y_objetos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_07_clases_y_objetos.ipynb) |
+| 8. Cadenas | [Ver](https://python2021leloir.github.io/clases/clase_08_manejo_cadenas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_08_manejo_cadenas.ipynb) |
+| 9. Expr. regulares | [Ver](https://python2021leloir.github.io/clases/clase_09_expresiones_regulares) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_09_expresiones_regulares.ipynb) |
 
 ### Ejercicios
 
 [Ejercicios de Python base - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_python_base.ipynb)
+
+[Ejercicios sobre _Strings_ - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/cadenas.ipynb)
+
+[Ejercicios de expresiones regulares - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb)
 
 ### Datos del curso
 
