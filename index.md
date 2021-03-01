@@ -23,7 +23,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 | Clase | Enlances |
 | --    | ------   | 
-| 0. Clase de prueba Colab | [Ver](https://python2021leloir.github.io/clases/prueba_colab) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) |
+| 0. Prueba Colab | [Ver](https://python2021leloir.github.io/clases/prueba_colab) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) |
 | 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
 | 2. Coding | [Ver](https://python2021leloir.github.io/clases/clase_02_coding) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_02_coding.ipynb) |
 | 3. Listas | [Ver](https://python2021leloir.github.io/clases/clase_03_listas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_03_listas.ipynb) |
