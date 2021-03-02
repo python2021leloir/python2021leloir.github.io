@@ -44,6 +44,10 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 [Ejercicios de expresiones regulares - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb)
 
+### Videos
+
+[Clase del lunes](https://youtu.be/Z25m0q-sOjc)
+
 ### Datos del curso
 
 ### Introducción a Python para Bioinformática
