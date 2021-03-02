@@ -47,6 +47,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 ### Videos
 
 [Clase del lunes](https://youtu.be/Z25m0q-sOjc)
+
 [Clase del martes](https://youtu.be/ivuTPZUUq18)
 
 ### Datos del curso
