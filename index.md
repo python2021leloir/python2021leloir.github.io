@@ -49,6 +49,10 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 [Clase del martes](https://youtu.be/ivuTPZUUq18)
 
+[Clase del miercoles - Parte 1](https://youtu.be/SFTE3F7NC2o)
+
+[Clase del miercoles - Parte 2](https://youtu.be/aRDqMcxloMQ)
+
 ### Datos del curso
 
 ### Introducción a Python para Bioinformática
