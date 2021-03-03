@@ -36,13 +36,12 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 ### Ejercicios
 
-[Ejercicios de Python base - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_python_base.ipynb)
-
-[Ejercicios Clase 2_ - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_clase_2.ipynb)
-
-[Ejercicios sobre _Strings_ - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/cadenas.ipynb)
-
-[Ejercicios de expresiones regulares - Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb)
+| Ejercicios | Enunciados | Soluciones |
+| -- | -- | ----------------- |
+| Python Base Clase 1| [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_python_base.ipynb) | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/respuesta_ejercicios/ejercicios_python_base.ipynb) |
+| Python Base Clase 2 | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_clase_2.ipynb) ||
+| String | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/cadenas.ipynb) ||
+| Expresiones regulares | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb) |
 
 ### Videos
 
