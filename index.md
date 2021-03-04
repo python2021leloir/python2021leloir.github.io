@@ -45,10 +45,6 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | Expresiones regulares | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb) |[Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/respuesta_ejercicios/expresiones_regulares.ipynb) |
 | Pandas | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejericios_pandas.ipynb) |
 
-
-
-
-
 ### Videos
 
 | Clase | link al video |
