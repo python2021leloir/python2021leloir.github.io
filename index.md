@@ -45,13 +45,15 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 ### Videos
 
-[Clase del lunes](https://youtu.be/Z25m0q-sOjc)
-
-[Clase del martes](https://youtu.be/ivuTPZUUq18)
-
-[Clase del miercoles - Parte 1](https://youtu.be/SFTE3F7NC2o)
-
-[Clase del miercoles - Parte 2](https://youtu.be/aRDqMcxloMQ)
+| Clase | link al video |
+| --    | ---           |
+| Clase del lunes | [Youtube](https://youtu.be/Z25m0q-sOjc) |
+| Clase del martes | [Youtube](https://youtu.be/ivuTPZUUq18)
+| Clase del miercoles - Parte 1 | [Youtube](https://youtu.be/SFTE3F7NC2o)
+| Clase del miercoles - Parte 2 | [Youtube](https://youtu.be/aRDqMcxloMQ)
+| Clase del jueves - Parte 1 | [Youtube](https://youtu.be/MrIDJPXSoCw)
+| Clase del jueves - Parte 2 | [Youtube](https://youtu.be/M3rQVKd69Eg)
+| Clase del jueves - Parte 3 | [Youtube](https://youtu.be/wWG4ANDi5lw)
 
 ### Datos del curso
 
