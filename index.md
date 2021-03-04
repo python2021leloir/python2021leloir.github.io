@@ -33,6 +33,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 7. Objetos | [Ver](https://python2021leloir.github.io/clases/clase_07_clases_y_objetos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_07_clases_y_objetos.ipynb) |
 | 8. Cadenas | [Ver](https://python2021leloir.github.io/clases/clase_08_manejo_cadenas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_08_manejo_cadenas.ipynb) |
 | 9. Expr. regulares | [Ver](https://python2021leloir.github.io/clases/clase_09_expresiones_regulares) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_09_expresiones_regulares.ipynb) |
+| 10. Pandas | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_xx_pandas.ipynb) |
 
 ### Ejercicios
 
@@ -42,6 +43,11 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | Python Base Clase 2 | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejercicios_clase_2.ipynb) ||
 | String | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/cadenas.ipynb) |[Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/respuesta_ejercicios/cadenas.ipynb)|
 | Expresiones regulares | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/expresiones_regulares.ipynb) |[Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/respuesta_ejercicios/expresiones_regulares.ipynb) |
+| Pandas | [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/ejercicios/ejericios_pandas.ipynb) |
+
+
+
+
 
 ### Videos
 
