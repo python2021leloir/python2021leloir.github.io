@@ -36,6 +36,8 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 10. Pandas | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_xx_pandas.ipynb) |
 | 10. Pandas Vol II | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_pandas.ipynb) |
 
+| 11. Pandas Vol II | [Ver](https://python2021leloir.github.io/clases/clase_11_stats) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_stats.ipynb) |
+
 
 ### Ejercicios
 
