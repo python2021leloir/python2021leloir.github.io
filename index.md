@@ -34,6 +34,8 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 8. Cadenas | [Ver](https://python2021leloir.github.io/clases/clase_08_manejo_cadenas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_08_manejo_cadenas.ipynb) |
 | 9. Expr. regulares | [Ver](https://python2021leloir.github.io/clases/clase_09_expresiones_regulares) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_09_expresiones_regulares.ipynb) |
 | 10. Pandas | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_xx_pandas.ipynb) |
+| 10. Pandas Vol II | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_pandas.ipynb) |
+
 
 ### Ejercicios
 
