@@ -22,7 +22,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
 
 | Clase | Enlances |
-| --    | ------   | 
+| --    | ------   |
 | 0. Prueba Colab | [Ver](https://python2021leloir.github.io/clases/prueba_colab) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/Prueba_Colab.ipynb) |
 | 1. Tipos de datos | [Ver](https://python2021leloir.github.io/clases/clase_01_tipos_de_datos) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_01_tipos_de_datos.ipynb) |
 | 2. Coding | [Ver](https://python2021leloir.github.io/clases/clase_02_coding) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_02_coding.ipynb) |
@@ -35,8 +35,7 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | 9. Expr. regulares | [Ver](https://python2021leloir.github.io/clases/clase_09_expresiones_regulares) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_09_expresiones_regulares.ipynb) |
 | 10. Pandas | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_xx_pandas.ipynb) |
 | 10. Pandas Vol II | [Ver](https://python2021leloir.github.io/clases/clase_10_pandas) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_pandas.ipynb) |
-
-| 11. Pandas Vol II | [Ver](https://python2021leloir.github.io/clases/clase_11_stats) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_stats.ipynb) |
+| 11. Estadística | [Ver](https://python2021leloir.github.io/clases/clase_11_stats) - [Cargar en Colab](https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/clases/clase_11_stats.ipynb) |
 
 
 ### Ejercicios
