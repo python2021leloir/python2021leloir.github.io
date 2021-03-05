@@ -59,6 +59,9 @@ Cada clase la pueden ver en esta web o cargar directamente en Colab.
 | Clase del jueves - Parte 1 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/MrIDJPXSoCw)
 | Clase del jueves - Parte 2 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/M3rQVKd69Eg)
 | Clase del jueves - Parte 3 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/wWG4ANDi5lw)
+| Clase del viernes - Parte 1 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/06x2puLMFhM)
+| Clase del viernes - Parte 2 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/iM4HRTK6Ba0)
+| Clase del viernes - Parte 3 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/yF3foEmj6-o)
 | Resolución de ejercicios - Parte 1 | [<img src="https://raw.githubusercontent.com/python2021leloir/python2021leloir.github.io/master/yt.png" width="18" height="10" /> Youtube](https://youtu.be/ouo21MxJEJw)
 
 ### Datos del curso
