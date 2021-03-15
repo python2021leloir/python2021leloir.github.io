@@ -24,6 +24,10 @@ La entrega del enunciado del examen queda postergada hasta el lunes 22 de marzo 
 La fecha límite de entrega de las respuestas del examen será dos semanas desde
 que se se publique el enunciado.
 
+Por favor respondan este formulario:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8vhX6d6deLyFUdWD9cVhSWhdBL_YNaSAEF-3CigW_Gj048Q/viewform?embedded=true" width="640" height="688" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ### Clases
 Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
