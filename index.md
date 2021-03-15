@@ -17,6 +17,13 @@ Para eso tenemos que hacer click al lado de Clase de prueba Colab, donde dice "C
 Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
 
 
+### Examen
+
+La entrega del enunciado del examen queda postergada hasta el lunes 22 de marzo de 2021.
+
+La fecha límite de entrega de las respuestas del examen será dos semanas desde
+que se se publique el enunciado.
+
 ### Clases
 Cada clase la pueden ver en esta web o cargar directamente en Colab.
 
