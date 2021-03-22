@@ -19,7 +19,12 @@ Si hay algún problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com con
 
 ### Examen
 
-El examen están en este form: https://forms.gle/xAiS6bmfsJe8VskT7 .
+El examen están en:
+
+https://colab.research.google.com/github/Ferorti/escuela2021/blob/main/trabajo_final.ipynb
+
+
+Para subir las respuestas del examen ir a este form: https://forms.gle/SJLNS7Tjp6BmTfbD6 .
 
 La fecha límite de entrega es el lunes 5 de abril de 2021.
 Cualquier pregunta que tengan sobre el examen, escriban a esc.bioinf.a2b2c.leloir@gmail.com .
