@@ -14,17 +14,17 @@ Vamos a probar que no haya problemas para cargar la clases poder programar en Co
 Para eso tenemos que hacer click al lado de Clase de prueba Colab, donde dice "Cargar en Colab" y seguir las instruccciones disponibles en el siguiente [video](https://www.youtube.com/watch?v=fM6hGtiTFdY)
 
 
-Si hay algun problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contandonos cuál es el problema.
+Si hay algún problema,  envíen un mail a esc.bioinf.a2b2c.leloir@gmail.com contándonos cuál es el problema.
 
 
 ### Examen
 
-La entrega del enunciado del examen queda postergada hasta el lunes 22 de marzo de 2021.
+El examen están en este form: https://forms.gle/xAiS6bmfsJe8VskT7 .
 
-La fecha límite de entrega de las respuestas del examen será dos semanas desde
-que se se publique el enunciado.
+La fecha límite de entrega es el lunes 5 de abril de 2021.
+Cualquier pregunta que tengan sobre el examen, escriban a esc.bioinf.a2b2c.leloir@gmail.com .
 
-Por favor respondan este formulario:
+Por favor respondan este formulario, para saber que tipo de certificado quieren:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8vhX6d6deLyFUdWD9cVhSWhdBL_YNaSAEF-3CigW_Gj048Q/viewform?embedded=true" width="640" height="688" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
